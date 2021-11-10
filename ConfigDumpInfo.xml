@@ -15,7 +15,7 @@
 		<Metadata name="Document.Продажа.ObjectModule" id="818fd535-259d-407b-895a-9ba59caed356.0" configVersion="1bc8a8b7ad1baf4b854a222b63ae365500000000"/>
 		<Metadata name="Language.Русский" id="9ee63a1e-3362-4083-9ac0-31af9967c153" configVersion="8f535d6345364a4285decaacf368cc6300000000"/>
 		<Metadata name="Report.ПродажиЧудес" id="63f70604-bbff-4add-bb1e-e70dca0a8e39" configVersion="65c723a6b5e193418cc2f04905bdabfc00000000"/>
-		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных" id="37cdd45f-77aa-4d8e-b397-c10429644078" configVersion="f883d26a9bde49458ea2feef92f3a5f400000000"/>
-		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="37cdd45f-77aa-4d8e-b397-c10429644078.0" configVersion="9082918c85fec74f9fe4546a341ac61900000000"/>
+		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных" id="37cdd45f-77aa-4d8e-b397-c10429644078" configVersion="bff980df237a2d4d855ec00a037e610d00000000"/>
+		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="37cdd45f-77aa-4d8e-b397-c10429644078.0" configVersion="e97bb37654533540956cc8fdabbb45ae00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
