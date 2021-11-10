@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Продажи" id="a11787ed-ffb3-4f37-9ae7-f1c41014e8b8" configVersion="fd4dc9f9d11cdc45b470ee5af141fea600000000">
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Чудеса" id="1216aea8-fc30-4869-868e-850aa6700d1c"/>
+			<Metadata name="AccumulationRegister.Продажи.Resource.Количество" id="f681a03f-8511-4485-8916-8ffa90da5e32"/>
+		</Metadata>
+		<Metadata name="Catalog.Чудеса" id="7b15b0ad-062a-4143-bec9-b402dce22ff5" configVersion="76cb52ba265d474abc733f409d00df5000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="346df389-ce28-46db-b6cc-8b2d24ca6935" configVersion="e29cfd90dc61fe4ca42a94f759a0740800000000"/>
+		<Metadata name="Document.Продажа" id="818fd535-259d-407b-895a-9ba59caed356" configVersion="d40ff6202bd95541879cbd9ad06e901700000000">
+			<Metadata name="Document.Продажа.TabularSection.СписокЧудес.Attribute.Чудеса" id="3b97d6d2-9ec5-494b-a0c3-3a5346b06e21"/>
+			<Metadata name="Document.Продажа.TabularSection.СписокЧудес.Attribute.Количество" id="5355b49f-e5df-44b0-b04f-2a0ea3c472bb"/>
+			<Metadata name="Document.Продажа.TabularSection.СписокЧудес" id="9c92d537-3372-4a2f-a722-37796cd2c52a"/>
+		</Metadata>
+		<Metadata name="Document.Продажа.ObjectModule" id="818fd535-259d-407b-895a-9ba59caed356.0" configVersion="1bc8a8b7ad1baf4b854a222b63ae365500000000"/>
+		<Metadata name="Language.Русский" id="9ee63a1e-3362-4083-9ac0-31af9967c153" configVersion="8f535d6345364a4285decaacf368cc6300000000"/>
+		<Metadata name="Report.ПродажиЧудес" id="63f70604-bbff-4add-bb1e-e70dca0a8e39" configVersion="65c723a6b5e193418cc2f04905bdabfc00000000"/>
+		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных" id="37cdd45f-77aa-4d8e-b397-c10429644078" configVersion="f883d26a9bde49458ea2feef92f3a5f400000000"/>
+		<Metadata name="Report.ПродажиЧудес.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="37cdd45f-77aa-4d8e-b397-c10429644078.0" configVersion="9082918c85fec74f9fe4546a341ac61900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
